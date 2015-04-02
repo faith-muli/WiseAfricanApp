@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Wise African</string>
+
+    <string name="first_page">Wise African Proverbs</string>
+    <string name="first_page2">Ghanian Proverb</string>
+    <string name="second_page">Kenyan Proverb</string>
+    <string name="third_page">Kikuyu Proverb</string>
+    <string name="btn1">Next Proverb</string>
+    <string name="btnexit">Exit App</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_first">African Proverbs</string>
+    <string name="title_activity_second">second</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_third">third</string>
+</resources>
